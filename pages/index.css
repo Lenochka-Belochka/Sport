@@ -29,11 +29,11 @@
 @import url(../blocks/two-columns/span-accent/two-columns__span-accent.css);
 @import url(../blocks/digits/digits.css);
 @import url(../blocks/table/table.css);
-@import url(../blocks/table/__cell/table__cell.css);
-@import url(../blocks/table/__cell/_theme/table__cell_theme_dark.css);
-@import url(../blocks/table/__heading/table__heading.css);
-@import url(../blocks/table/__text/table__text.css);
-@import url(../blocks/table/_theme/table_theme_dark.css);
+@import url(../blocks/table/cell/table__cell.css);
+@import url(../blocks/table/cell/theme/table__cell_theme_dark.css);
+@import url(../blocks/table/heading/table__heading.css);
+@import url(../blocks/table/text/table__text.css);
+@import url(../blocks/table/theme/teble_theme_dark.css);
 @import url(../blocks/profile/profile.css);
 @import url(../blocks/profile/text/profile__text.css);
 @import url(../blocks/resources/resources.css);
