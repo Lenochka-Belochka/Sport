@@ -22,10 +22,11 @@
 @import url(../blocks/section-subtitle/section-subtitle.css);
 @import url(../blocks/section-subtitle/theme/section-subtitle_theme_dark.css);
 @import url(../blocks/two-columns/two-columns.css);
-@import url(../blocks/two-columns/__brief/two-columns__brief.css);
-@import url(../blocks/two-columns/__main-text/two-columns__main-text.css);
-@import url(../blocks/two-columns/__paragraph/two-columns__paragraph.css);
-@import url(../blocks/two-columns/__span-accent/two-columns__span-accent.css);
+@import url(../blocks/two-columns/brief/two-columns__brief.css);
+@import url(../blocks/two-columns/main-text/two-columns__main-text.css);
+@import url(../blocks/two-columns/paragraph/two-columns__paragraph.css);
+@import url(../blocks/two-columns/paragraph/two-columns__paragraph_black-theme.css);
+@import url(../blocks/two-columns/span-accent/two-columns__span-accent.css);
 @import url(../blocks/digits/digits.css);
 @import url(../blocks/table/table.css);
 @import url(../blocks/table/__cell/table__cell.css);
